@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Prak2</string>
+    <string name="bt">Set alarm</string>
+    <string name="widget_name">My widget</string>
+</resources>
